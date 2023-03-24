@@ -1,12 +1,12 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/World-Konkani-Centre/SCL-2022-BitSlashers/blob/main/README.md">
+  <!-- <a href="https://github.com/World-Konkani-Centre/SCL-2022-BitSlashers/blob/main/README.md">
     <img src="https://i.ibb.co/0ZD7Wk0/Logo.png" alt="Logo" width="300" height="250">
-  </a>
+  </a> -->
 
 
-  <h3 align="center">WeGroW</h3>
+  <h3 align="center">Sarala Santhe</h3>
 
   <p align="center">
     A single stop solution for fair crop trade
@@ -47,7 +47,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Hello, welcome to WeGroW. Extremely glad you’re here. You might have observed farmers bearing huge loss during crop trade due to lack of market knowledge and predominance of intermediaries. Hence we are a single stop solution where farmers meet consumers, aided with analytical insights and regular price visibility.
+Hello, welcome to Sarala Santhe. Extremely glad you’re here. You might have observed farmers bearing huge loss during crop trade due to lack of market knowledge and predominance of intermediaries. Hence we are a single stop solution where farmers meet consumers, aided with analytical insights and regular price visibility.
 
 ### Built With
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
@@ -70,7 +70,7 @@ Hello, welcome to WeGroW. Extremely glad you’re here. You might have observed 
 
 1. Fork and Clone
     <ol>
-    <li>Fork WeGroW Repo</li>
+    <li>Fork Sarala Santhe Repo</li>
     <li>Clone the repo to your computer.</li>
     <li>Navigate through the directory</li>
     </ol>
